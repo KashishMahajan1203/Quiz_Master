@@ -1,0 +1,38 @@
+{
+  "Science": [
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "O2", "CO2", "NaCl"],
+      "correct_option": 0
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correct_option": 1
+    }
+  ],
+  "History": [
+    {
+      "question": "Who was the first President of the United States?",
+      "options": ["Thomas Jefferson", "George Washington", "Abraham Lincoln", "John Adams"],
+      "correct_option": 1
+    },
+    {
+      "question": "In which year did World War II end?",
+      "options": ["1945", "1939", "1950", "1942"],
+      "correct_option": 0
+    }
+  ],
+  "Technology": [
+    {
+      "question": "What language is PyTorch primarily based on?",
+      "options": ["Java", "Python", "C++", "JavaScript"],
+      "correct_option": 1
+    },
+    {
+      "question": "What does 'AI' stand for?",
+      "options": ["Artificial Intelligence", "Automated Interface", "Advanced Internet", "Algorithmic Integration"],
+      "correct_option": 0
+    }
+  ]
+}
